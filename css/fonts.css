@@ -1,0 +1,39 @@
+body,
+a,
+p,
+figure,
+b,
+div,
+ul,
+li,
+.services-down,
+.comment-item-data,
+.pricing-table-section,
+.flicker .first,
+.flicker .second,
+.flicker .third {
+    font-family: montserrat, sans-serif
+}
+
+.font-alt,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+button,
+.pagination,
+.material-btn,
+.progress-bar-percent .progress-bar-number,
+.we-offer-area.item-border-less .item .number,
+.team-name,
+.nav-link {
+    font-family: poppins, sans-serif
+}
+
+.first-heading,
+.font-pottaone,
+.logo-text-1 {
+    font-family: potta one, cursive
+}
