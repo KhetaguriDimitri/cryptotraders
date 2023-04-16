@@ -4,8 +4,7 @@
 </a>
 
  <p align="center">
- <img src="https://abs.twimg.com/hashflags/Bitcoin_evergreen/Bitcoin_evergreen.png">
- | Crypto Exchange |  Крипто Обменник | კრიპტოს დახურდავება ყველაზე სწრაფად და მარტივად | 
+ Crypto Exchange |  Крипто Обменник | კრიპტოს დახურდავება ყველაზე სწრაფად და მარტივად | 
 <img src="https://abs.twimg.com/hashflags/Bitcoin_evergreen/Bitcoin_evergreen.png">
 
    <p align="center">
